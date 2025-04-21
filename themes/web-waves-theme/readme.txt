@@ -1,4 +1,4 @@
-=== No Code Theme ===
+=== Web Waves Theme ===
 Contributors: Simranjeet Kaur
 Tested up to: 6.4
 Requires at least: 6.1
@@ -14,7 +14,7 @@ A full site editing theme. No code version.
 1.0.0 Initial release
 
 == Licence ==
-No Code Theme is distributed under the terms of the GNU GPL.
+Web Waves Theme is distributed under the terms of the GNU GPL.
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
